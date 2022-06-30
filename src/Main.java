@@ -2,7 +2,7 @@ public class Main
 {
     public static void main(String[] args)
     {
-        int height = 11, starAmount = 1, i = 1;
+        int height = 21, starAmount = 1, i = 1;
 
         int midline = height / 2 + 1;
 
